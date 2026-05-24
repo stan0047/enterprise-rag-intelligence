@@ -1,0 +1,9 @@
+Finance department handles payroll.
+
+HR manages employee onboarding.
+
+Engineering owns production systems.
+
+Only Finance department can access salary records.
+
+Security incidents are restricted to Admin users.

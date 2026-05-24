@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-05-24",
+    "event": "Unauthorized access attempt",
+    "severity": "HIGH"
+  },
+  {
+    "timestamp": "2026-05-24",
+    "event": "Database backup completed",
+    "severity": "LOW"
+  }
+]
